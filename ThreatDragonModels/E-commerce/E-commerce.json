@@ -1,0 +1,31 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "E-commerce",
+    "owner": "Tupok KWU",
+    "description": "Sistem pembayaran pada pembelian di online shop, mengidentifikasi potensi ancaman keamanan dalam sistem pembayaran, dan mengusulkan langkah mitigasi untuk mengurangi risiko ancaman yang ditemukan.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "TKKKS"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "e-commerce",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "e-commerce STRIDE"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "TKKKS",
+    "threatTop": 0
+  }
+}
